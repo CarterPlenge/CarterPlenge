@@ -1,6 +1,6 @@
 - Hi, I’m @CarterPlenge
 - I’m interested in most things computers but AI is what really facinates me. 
-- I’m currently working on my CS degree while employed at Skypad. 
+- I’m currently working on my CS degree. 
 - You can reach me at cplenge22@gmail.com
 
 <!---
