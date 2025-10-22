@@ -3,7 +3,7 @@
 I'm a Computer Science student at **Northwest Missouri State University**, graduating in **December 2025**.  
 I’m passionate about **software development**, **embedded systems**, and the intersection of **AI and real-world applications**.  
 My strongest language is **Python**, but I also work with **C/C++**, **JavaScript**, **Java**, **SQL**, and **Unreal Engine C++**.  
-Recently, I’ve been working on training a model to play swarm games like Vampire Survivors and building various discord bots for fun. 
+Recently, I’ve been working on training a model to play swarm games like Vampire Survivors and building various discord bots. 
 
 ---
 
