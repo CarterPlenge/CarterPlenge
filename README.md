@@ -1,7 +1,7 @@
 # Hello, I’m Carter Plenge
 
 I'm a Computer Science student at **Northwest Missouri State University**, graduating in **December 2025**.  
-I’m passionate about **software development**, **embedded systems**, and the intersection of **AI and real-world applications**.  
+I’m passionate about **software development**, **embedded systems**, and **AI**.  
 My strongest language is **Python**, but I also work with **C/C++**, **JavaScript**, **Java**, **SQL**, and **Unreal Engine C++**.  
 
 ---
